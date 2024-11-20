@@ -1,7 +1,7 @@
 window.API = document.querySelector("#stageFrame").contentWindow.API
 window.skipperSettings = {}
 skipperSettings.autoplay = true
-skipperSettings.skip = {}
+skipperSettings.skip = {} ssssssss
 
 // BEGIN OF CODE
 
