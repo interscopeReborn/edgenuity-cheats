@@ -5,3 +5,4 @@ cd ..
 copy .\src\skipper.css release
 git add -f release/
 git commit
+d
