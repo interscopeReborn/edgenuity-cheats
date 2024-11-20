@@ -4,6 +4,7 @@ skipperSettings.autoplay = true
 skipperSettings.skip = {}
 
 // BEGIN OF CODE
+
 function extend(sup, base) {
     var descriptor = Object.getOwnPropertyDescriptor(
       base.prototype, 'constructor'
