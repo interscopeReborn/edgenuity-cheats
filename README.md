@@ -1,6 +1,6 @@
 # edgenuity-cheats
 
-This javascript code when injected into enginuity (on a video page) will automaticly start the "play each video back to back." feature, (Autoplay)
+This javascript code when injected into enginuity (on a video page) will automaticly start the "play each video back to back." feature, (autoplay)
 # Installation
 To load this cheat, go into a lesson (has to be a video, but works for all other sections after) and paste this into the console:
 ```javascript
